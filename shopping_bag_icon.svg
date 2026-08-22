@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none">
+  <title>Shopping bag</title>
+  <path d="M5.25 8.5H18.75L20.25 22H3.75L5.25 8.5Z" stroke="#111111" stroke-width="1.25" stroke-linejoin="round"/>
+  <path d="M8.25 10.5V7.25C8.25 5.18 9.93 3.5 12 3.5C14.07 3.5 15.75 5.18 15.75 7.25V10.5" stroke="#111111" stroke-width="1.25" stroke-linecap="round"/>
+</svg>
